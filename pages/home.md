@@ -10,10 +10,14 @@ permalink: /
 ![upatras](/assets/img/upatras.jpg)
 
 # 13th EUMETNET Data Management Workshop 2021
+## 25th - 27th October 2021
+### Laboratory of Atmospheric Physics, University of Patras, Greece
 
 The 13th EUMETNET Data Management Workshop will be organized by the Laboratory of Atmospheric Physics of the University of Patras, Patras, Greece, from Monday October 25th to Wednesday October 27th 2021. Due to the SARS-COV-2 pandemic, it will be decided shortly whether the workshop will take place in the city of Patras or online.
 The theme of the conference is
-“Communication of revised climate information”
+
+**“Communication of revised climate information”**
+
 with the aim to convey information to the community of climate data users about the recent updates on climate data and time series.
 
 ## Topics
