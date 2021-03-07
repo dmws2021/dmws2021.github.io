@@ -1,3 +1,3 @@
-# SCoSCo Project
+# DMWS 
 
-Jekyll website for Solar Heat Collectors research project
+Jekyll website 
