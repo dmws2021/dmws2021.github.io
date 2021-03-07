@@ -7,7 +7,6 @@ permalink: /
 ---
 
 
-![upatras](/assets/img/upatras.jpg)
 
 # 13th EUMETNET DMWS 2021
 ## Laboratory of Atmospheric Physics, University of Patras, Greece
