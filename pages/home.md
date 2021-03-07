@@ -18,7 +18,7 @@ The theme of the conference is
 
 {: .alert .alert-info .text-center} **“Communication of revised climate information”**
 
-with the aim to convey information to the community of climate data users about the recent updates on climate data and time series.
+ to the community of climate data users about the recent updates on climate data and time series.
 
 ## Topics
 The main topics to be addressed during the workshop are:
