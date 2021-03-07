@@ -1,8 +1,8 @@
 ---
 layout: default
-title: DMWS 2021
+title: 13th EUMETNET Data Management Workshop 2021
 description: Data managment workshop 2021
-background: /assets/img/background.jpg
+background: /assets/img/upatras.jpg
 permalink: /
 ---
 
