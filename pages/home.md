@@ -9,7 +9,7 @@ permalink: /
 
 <div align="center">
  <h1>13th EUMETNET DMWS 2021</h1>
-<h1> of Atmospheric Physics, University of Patras, Greece</h1>
+<h1> Laboratory of Atmospheric Physics, University of Patras, Greece</h1>
 </div>
 
 The 13th EUMETNET Data Management Workshop will be organized by the [Laboratory of Atmospheric Physics](https://www.atmosphere-upatras.gr/en) of the [University of Patras](http://www.upatras.gr/en), [Patras](https://goo.gl/maps/KN76MsCq81KCduUy8), Greece, from Monday October 25th to Wednesday October 27th 2021. Due to the SARS-COV-2 pandemic, it will be decided shortly whether the workshop will take place in the city of Patras or online.
