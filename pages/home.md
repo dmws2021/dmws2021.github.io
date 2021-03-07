@@ -44,3 +44,8 @@ In the event of a physical workshop the registration fees will be 100 €. Furth
 -	Dubravka Rasol (DHMZ)
 -	Ole Einar Tveito (MetNo)
 
+## Local Organizing Committee
+-	Athanassios Argiriou
+-	Andreas Kazantzidis
+-	Ioannis Kioutsioukis
+-	Vasileios Salamalikis
