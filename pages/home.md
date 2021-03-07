@@ -2,7 +2,7 @@
 layout: default
 title: 13th EUMETNET Data Management Workshop 2021
 description: 25th - 27th October 2021
-background: /assets/img/upatras.jpg
+background: /assets/img/background.jpg
 permalink: /
 ---
 
