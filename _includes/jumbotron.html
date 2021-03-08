@@ -5,11 +5,14 @@
 {% endif %}
     <div class="container">
       <div class="row">
-        <div class="col-md-10 col-lg-8 mx-auto">
+          <div class="col-sm-3">
+               <img src="/assets/img//eumetnet_logo.jpg" class="img-fluid float-center" style="max-height:100px; width: auto;  height: auto; border-radius: 2px">
+          </div>
+        <div class="col-md-10 col-lg-6 mx-auto">
           <h1{% if page.layout == 'home' %} class="home"{% endif %}>{{ page.title }}</h1>
-          
+
           <div class="lead">{{ page.description | markdownify }}</div>
-          
+
           {% if page.date %}
           <p class="meta">
             <time>{{ page.date | date: "%B %d, %Y" }}</time>
@@ -26,6 +29,9 @@
               {% endfor %}
             {% endif %}
           </div>
+        </div>
+        <div class="col-sm-3">
+             <img src="/assets/img//UP_LAPUP_Logo.png" class="img-fluid float-right" style="max-height:100px; width: auto;  height: auto; border-radius: 2px">
         </div>
       </div>
     </div>
