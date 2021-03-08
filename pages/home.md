@@ -32,7 +32,7 @@ The main topics to be addressed during the workshop are:
 -	Energy Meteorology: Weather data for the needs of renewable energy power plants.
 
 ## Call for Abstracts
-A one-page abstract, in English, for posters or oral presentations should be send to [mailto](mailto:dmw2021@zamg.ac.at), **before May 31st 2021**. In the subject of your mail please mention DMW 2021 and in the body of your message please indicate your preference (oral or poster). Authors will be notified about the acceptance of their submission early September 2021.
+A one-page abstract, in English, for posters or oral presentations should be send to [dmw2021@zamg.ac.at](dmw2021@zamg.ac.at), **before May 31st 2021**. In the subject of your mail please mention DMW 2021 and in the body of your message please indicate your preference (oral or poster). Authors will be notified about the acceptance of their submission early September 2021.
 
 ## Registration
 Participants can register by sending an e-mail to dmw2021@zamg.ac.at providing your first name and surname, your institute and the email address you would like to use for communication, if different from the one you mailed from. 
