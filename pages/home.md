@@ -13,7 +13,7 @@ permalink: /
 </div>
 
 The 13th EUMETNET Data Management Workshop will be organized by the [Laboratory of Atmospheric Physics](https://www.atmosphere-upatras.gr/en) of the [University of Patras](http://www.upatras.gr/en), [Patras](https://goo.gl/maps/KN76MsCq81KCduUy8), Greece, from Monday October 25th to Wednesday October 27th 2021. Due to the SARS-COV-2 pandemic, it will be decided shortly whether the workshop will take place in the city of Patras or online.
-The theme of the conference is
+The theme of the workshop is
 <div align="center">
 <b>“Communication of revised climate information”</b>
 </div>
@@ -32,7 +32,7 @@ The main topics to be addressed during the workshop are:
 -	Energy Meteorology: Weather data for the needs of renewable energy power plants.
 
 ## Call for Abstracts
-A one-page abstract, in English, for posters or oral presentations should be send to dmw2021@zamg.ac.at, before May 31st 2021. In the subject of your mail please mention DMW 2021 and in the body of your message please indicate your preference (oral or poster). Authors will be notified about the acceptance of their submission early September 2021.
+A one-page abstract, in English, for posters or oral presentations should be send to [mailto](mailto:dmw2021@zamg.ac.at), **before May 31st 2021**. In the subject of your mail please mention DMW 2021 and in the body of your message please indicate your preference (oral or poster). Authors will be notified about the acceptance of their submission early September 2021.
 
 ## Registration
 Participants can register by sending an e-mail to dmw2021@zamg.ac.at providing your first name and surname, your institute and the email address you would like to use for communication, if different from the one you mailed from. 
