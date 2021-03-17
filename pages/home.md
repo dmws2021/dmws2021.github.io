@@ -48,7 +48,8 @@ In the event of a physical workshop the registration fees will be 100 €. Furth
 -	Ole Einar Tveito (MetNo)
 
 ## Local Organizing Committee
--	Athanassios Argiriou
--	Andreas Kazantzidis
--	Ioannis Kioutsioukis
--	Vasileios Salamalikis
+-	Athanassios Argiriou (LAPUP)
+-	Andreas Kazantzidis (LAPUP)
+-	Ioannis Kioutsioukis (LAPUP)
+-	Anna Mamara (Hellenic National Meteorological Service)
+-	Vasileios Salamalikis (LAPUP)
