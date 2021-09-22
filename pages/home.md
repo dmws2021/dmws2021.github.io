@@ -37,6 +37,9 @@ A one-page abstract, in English, for posters or oral presentations should be sen
 ## Registration
 Participants can register by sending an e-mail to **DMW2021@zamg.ac.at** with your first name and surname, your institute and the email address you would like to use for communication, if different from the one you mailed from. 
 Since the event will take place online, thre are no registration fees. Applications for registration for those who would like to attend the workshop, with out any presentation, can be sent until **September 30th, 2021**.
+
+## Programme
+[Here](downloads/DMW2021_programme.pdf) you can download the programme of the workshop.
  
 ## Scientific Committee
 -	Enric Aguilar (URV)
