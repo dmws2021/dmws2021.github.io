@@ -12,8 +12,9 @@ permalink: /
 <h3> Laboratory of Atmospheric Physics, University of Patras, Greece</h3>
 </div>
 
-The 13th EUMETNET Data Management Workshop will be organized by the [Laboratory of Atmospheric Physics](https://www.atmosphere-upatras.gr/en) of the [University of Patras](http://www.upatras.gr/en), [Patras](https://goo.gl/maps/KN76MsCq81KCduUy8), Greece, from Monday October 25th to Wednesday October 27th 2021. Due to the SARS-COV-2 pandemic, the workshop will take place online via the Zoom platform. The link will be sent to the registered participants in due time.
-The theme of the workshop is
+The 13th EUMETNET Data Management Workshop was organized online by the [Laboratory of Atmospheric Physics](https://www.atmosphere-upatras.gr/en) of the [University of Patras](http://www.upatras.gr/en), [Patras](https://goo.gl/maps/KN76MsCq81KCduUy8), Greece, from Monday October 25th to Wednesday October 27th 2021. 
+
+The theme of the workshop was
 <div align="center">
 <b>“Communication of revised climate information”</b>
 </div>
@@ -22,7 +23,7 @@ The theme of the workshop is
  with the aim to convey to the community of climate data users about the recent updates on climate data and time series.
 
 ## Topics
-The main topics to be addressed during the workshop are:
+The main topics addressed during the workshop were:
 -	Data rescue: investigation, cataloguing, digitization, imaging.
 -	Climate observations: standards and best practices, definition of climatological day, mean values.
 -	Metadata: WMO Information System (WIS), INSPIRE, climate networks rating guides
@@ -40,6 +41,16 @@ Since the event will take place online, thre are no registration fees. Applicati
 
 ## Programme
 [Here](../downloads/13_DMWS_Programme.pdf) you can download the programme of the workshop.
+
+## Presentations
+[Here](https://pithos.okeanos.grnet.gr/public/hXiXkrbMEOqjRu8mkDh8n6) you can download the presentations and the posters of the workshop.
+
+## Recordings
+[Day 1](https://pithos.okeanos.grnet.gr/public/pz8sXO3BCnCK8KsH2Jod67) of the workshop.
+[Day 2](https://pithos.okeanos.grnet.gr/public/tJJEl6OpyiraoP1oWoQTw1) of the workshop.
+[Day 3](https://pithos.okeanos.grnet.gr/public/R2l7lVuAAaJheYSVnN1z97) of the workshop.
+
+## Presentations
  
 ## Scientific Committee
 -	Enric Aguilar (URV)
