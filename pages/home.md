@@ -43,7 +43,7 @@ Since the event will take place online, thre are no registration fees. Applicati
 [Here](../downloads/13_DMWS_Programme.pdf) you can download the programme of the workshop.
 
 ## Presentations
-[Here](https://pithos.okeanos.grnet.gr/public/hXiXkrbMEOqjRu8mkDh8n6) you can download the presentations and the posters of the workshop.
+[Here](https://pithos.okeanos.grnet.gr/public/kMGrNx9XuZ1VlfuSYzmbc4) you can download the presentations and the posters of the workshop.
 
 ## Recordings
 [Day 1](https://pithos.okeanos.grnet.gr/public/pz8sXO3BCnCK8KsH2Jod67) of the workshop.
